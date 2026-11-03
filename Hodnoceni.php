@@ -38,7 +38,9 @@ if ($test1 >= 90) {
 }elseif ($test1 <= 39) {
     echo "<br>Za 5";
 }
+
 echo "<h3>Znamka 2 testu</h3>";
+
 if ($test2 >= 90) {
     echo "<br>Za 1";
 }elseif ($test2 <= 89 && $test2 >= 75) {
@@ -50,7 +52,9 @@ if ($test2 >= 90) {
 }elseif ($test2 <= 39) {
     echo "<br>Za 5";
 }
+
 echo "<h3>Znamka 3 testu</h3>";
+
 if ($test3 >= 90) {
     echo "<br>Za 1";
 }elseif ($test3 <= 89 && $test3 >= 75) {
