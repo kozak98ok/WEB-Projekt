@@ -8,3 +8,8 @@ echo "<h1>ukol B</h1>";
 for ($p = 2; $p <= 20; $p+=2) {
     echo "<br>$p<br>";
 }
+echo "<h1>ukol C</h1>";
+$number = 7;
+for ($i = 1; $i <= 10; $i++) {
+    echo "<br>";$i*$number;"<br>";
+}
